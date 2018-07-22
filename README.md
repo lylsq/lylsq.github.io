@@ -41,7 +41,7 @@ As you can see in [api](https://github.com/JimmyLv/jimmy.lv/tree/gh-pages/api) f
 ## Publish Slides
 
 ```
-nodeppt generate ./_posts/演讲 ./slides -a
+nodeppt generate ./_posts/每周展望 ./slides -a
 ```
 
 ## Deploy

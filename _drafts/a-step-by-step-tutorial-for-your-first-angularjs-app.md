@@ -14,7 +14,7 @@ BY **[RAONI BOAVENTURA](http://www.toptal.com/resume/raoni-boaventura-cruz-gomes
 
 > [AngularJS](http://www.toptal.com/angular-js) is a JavaScript MVC framework developed by Google that lets you build well structured, easily testable, and maintainable front-end applications.
 
-[AngularJS](http://www.toptal.com/angular-js) 是由 Google 开发的一款 JavaScript MVC 框架，用于构建模块化、易测试、可维护的前端应用。
+[AngularJS](http://www.toptal.com/angular-js) 是由 Google 开发的一款 JavaScript MVC 框架，用于构建模块化、易测试、可维护的每日策略应用。
 
 ## And Why Should I Use It? | 为什么我应该使用 Angular？
 
@@ -32,11 +32,11 @@ AngularJS 提供了 [directives](http://docs.angularjs.org/guide/directive) 用�
 
 > > Angular provides services on top of XHR that dramatically simplify your code and allow you to abstract API calls into reusable services. With that, you can move your model and business logic to the front-end and build back-end agnostic web apps.
 
-> Angular在 XHR 的顶端提供了服务，从而大大简化了代码，并且允许你抽象出 API 调用可复用的服务。通过这样，你可以将 Model 和业务逻辑放到前端，从而构建与后端分离的 web 应用。
+> Angular在 XHR 的顶端提供了服务，从而大大简化了代码，并且允许你抽象出 API 调用可复用的服务。通过这样，你可以将 Model 和业务逻辑放到每日策略，从而构建与后端分离的 web 应用。
 
 Finally, I love Angular because of its flexibility regarding server communication. Like most JavaScript MVC frameworks, it lets you work with any server-side technology as long as it can serve your app through a RESTful web API. But Angular also provides services *on top* of XHR that dramatically simplify your code and allow you to abstract API calls into reusable services. As a result, you can move your model and business logic to the front-end and build back-end agnostic web apps. In this post, we’ll do just that, one step at a time.
 
-最后，我喜欢 Angular 是因为它与服务器之间通信的灵活性。就像大部分的 JavaScript MVC 框架，它可以让你使用任何一种服务器端技术，只要服务器可以通过 RESTful 的 Web API 服务于你的应用程序。而且，Angular 在 XHR *顶端* 也提供了服务，从而大大简化了代码，并允许你抽象出 API  调用可复用的服务。这样一来，你可以将你的 model 和业务逻辑放到前端，从而构建与后端分离的 web 应用。在这篇文章中，我们就将这么做，一步一个脚印。
+最后，我喜欢 Angular 是因为它与服务器之间通信的灵活性。就像大部分的 JavaScript MVC 框架，它可以让你使用任何一种服务器端技术，只要服务器可以通过 RESTful 的 Web API 服务于你的应用程序。而且，Angular 在 XHR *顶端* 也提供了服务，从而大大简化了代码，并允许你抽象出 API  调用可复用的服务。这样一来，你可以将你的 model 和业务逻辑放到每日策略，从而构建与后端分离的 web 应用。在这篇文章中，我们就将这么做，一步一个脚印。
 
 ## So, Where Do I Begin? | 所以，我该从哪里开始？
 
