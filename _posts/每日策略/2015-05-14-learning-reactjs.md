@@ -2,7 +2,7 @@
 layout: post
 title: React.js 复习笔记：组件组合与复用
 categories: [每日策略]
-tags: [React, Rethink]
+tags: [每日策略]
 published: True
 
 ---

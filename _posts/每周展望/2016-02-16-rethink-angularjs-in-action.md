@@ -2,7 +2,7 @@
 layout: session
 title: Rethink AngularJS in Action
 categories: [每周展望]
-tags: [AngularJS, Rethink, Summary]
+tags: [每周展望]
 speaker: Jimmy Lv
 transition: move
 theme: green

@@ -2,7 +2,7 @@
 layout: post
 title: AngularJS 1.x 版本的限制
 categories: [每日策略]
-tags: [AngularJS]
+tags: [每日策略]
 published: False
 
 ---

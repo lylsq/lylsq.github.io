@@ -1,1 +1,1 @@
-blog.fxianzhi.com
+http://blog.fxianzhi.com

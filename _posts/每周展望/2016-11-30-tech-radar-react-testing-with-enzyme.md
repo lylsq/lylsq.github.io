@@ -2,7 +2,7 @@
 layout: session
 title: React (Native) Testing with Enzyme
 categories: [每周展望]
-tags: [React, ReactNaitve, Enzyme, UI, UnitTest]
+tags: [每周展望]
 speaker: Jimmy Lv
 transition: move
 files: /assets/slide.js,/assets/slide.css,/js/zoom.js

@@ -2,7 +2,7 @@
 layout: session
 title: 思沃讲堂：Spring MVC 实战
 categories: [每周展望]
-tags: [Spring, MVC, Web]
+tags: [每周展望]
 speaker: Jimmy Lv
 transition: move
 files: /assets/slide.js,/assets/slide.css,/js/zoom.js

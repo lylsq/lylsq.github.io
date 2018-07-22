@@ -2,7 +2,7 @@
 layout: iframe
 title: 'JSConf 2016: What’s better Developer Experience & How to build FullStack Application by feature?'
 categories: [每周展望]
-tags: [JavaScript, Conf, DX, FullStack]
+tags: [每周展望]
 speaker: Jimmy Lv
 published: True
 ---

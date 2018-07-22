@@ -2,7 +2,7 @@
 layout: session
 title: 每日策略模块化小史，Webpack 入门
 categories: [每周展望]
-tags: [Webpack, JavaScript, 工程化]
+tags: [每周展望]
 speaker: Jimmy Lv
 transition: move
 files: /assets/slide.js,/assets/slide.css,/js/zoom.js

@@ -2,7 +2,7 @@
 layout: post
 title: Node.js的正确安装与相关工具（Mac OS X）
 categories: [每日策略]
-tags: [JavaScript, NodeJS]
+tags: [每日策略]
 published: True
 
 ---

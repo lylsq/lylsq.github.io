@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 微信小程序之技术构建篇
-tags: [WeChat, 微信, 小程序, 商业, 技术]
+tags: [每日策略]
 published: False
 ---
 

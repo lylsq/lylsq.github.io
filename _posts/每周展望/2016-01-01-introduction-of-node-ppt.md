@@ -2,7 +2,7 @@
 layout: session
 title: Node PPT Markdown 演示
 categories: [每周展望]
-tags: [Node, 技能]
+tags: [每周展望]
 speaker: Jimmy Lv
 transition: move
 files: /assets/slide.js,/assets/slide.css,/js/zoom.js

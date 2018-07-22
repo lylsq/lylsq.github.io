@@ -2,7 +2,7 @@
 layout: post
 title: GitHub开源项目源码十阅(1)：getAwesomeness
 categories: [每日策略]
-tags: [开源项目, JavaScript, Express, GitHub]
+tags: [每日策略]
 published: True
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 搞定 Webpack (1)：每日策略模块化实践小史与 Webpack 入门
 categories: [每日策略]
-tags: [Webpack, 工程化, JavaScript]
+tags: [每日策略]
 published: True
 
 ---

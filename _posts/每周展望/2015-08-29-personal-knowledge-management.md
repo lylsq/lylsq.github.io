@@ -2,7 +2,7 @@
 layout: session
 title: PKM：个人知识管理
 categories: [每周展望]
-tags: [PKM, 学习]
+tags: [每周展望]
 speaker: Jimmy Lv
 transition: move
 files: /assets/slide.js,/assets/slide.css,/js/zoom.js

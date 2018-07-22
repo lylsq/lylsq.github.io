@@ -2,7 +2,7 @@
 layout: iframe
 title: 'REST IN ACTION: What’s real RESTful Architecture & How to Consume Resource in AngularJS?'
 categories: [每周展望]
-tags: [REST, AngularJS, Architecture]
+tags: [每周展望]
 speaker: Jimmy Lv
 published: True
 ---

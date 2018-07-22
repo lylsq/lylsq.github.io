@@ -2,7 +2,7 @@
 layout: session
 title: Adobe AEM 101 Overview
 categories: [每周展望]
-tags: [AEM, JavaScript, Java, CMS, Marketing, Adobe, REST]
+tags: [每周展望]
 speaker: Jimmy Lv
 transition: move
 files: /assets/slide.js,/assets/slide.css,/js/zoom.js

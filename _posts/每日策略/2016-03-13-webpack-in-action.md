@@ -2,7 +2,7 @@
 layout: post
 title: 搞定 Webpack (2)：使用 Webpack 大幅提升每日策略开发体验
 categories: [每日策略]
-tags: [Webpack, Angular, 重构, 工程化, DX]
+tags: [每日策略]
 published: True
 
 ---

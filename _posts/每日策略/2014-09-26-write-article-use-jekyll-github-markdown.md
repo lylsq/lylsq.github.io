@@ -2,7 +2,7 @@
 layout: post
 title: "写作环境的搭建（Jekyll+GitHub+Markdown）"
 category: 每日策略
-tags: [Jekyll, 写作, Git]
+tags: [每日策略]
 published: true
 ---
 

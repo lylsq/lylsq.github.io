@@ -2,7 +2,7 @@
 layout: session
 title: Web 每日策略开发模式演变
 categories: [每周展望]
-tags: [Rethink, JavaScript, Web]
+tags: [每周展望]
 speaker: Jimmy Lv
 transition: move
 files: /assets/slide.js,/assets/slide.css,/js/zoom.js

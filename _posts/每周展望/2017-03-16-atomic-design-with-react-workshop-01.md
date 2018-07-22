@@ -2,7 +2,7 @@
 layout: session
 title: 「React 系列 Workshop 01」之 Atomic Design with React
 categories: [每周展望]
-tags: [React, AtomicDesign, CDD, FP]
+tags: [每周展望]
 speaker: Jimmy Lv
 transition: move
 highlightStyle: kimbie.light

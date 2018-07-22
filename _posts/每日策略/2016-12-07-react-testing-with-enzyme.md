@@ -2,7 +2,7 @@
 layout: post
 title: 「技术雷达」之使用 Enzyme 测试 React（Native）组件
 categories: [每日策略]
-tags: [React, ReactNaitve, Enzyme, Testing, TechRadar]
+tags: [每日策略]
 published: True
 ---
 

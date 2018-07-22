@@ -2,7 +2,7 @@
 layout: post
 title: 傻瓜式博客搭建教程：使用GitHub Pages快速生成博客
 category: 每日策略
-tags: [Git, Jekyll]
+tags: [每日策略]
 keywords: markdown
 description:
 ---
