@@ -1,0 +1,24 @@
+{
+	"title": "",
+	"links": {
+		"sharing": {
+			"all": null,
+			"facebook": null,
+			"google": null,
+			"twitter": null,
+			"weibo": null
+		},
+		"sidebar": {
+			"JimmyLv's Blog": "http://blog.fxianzhi.com"
+		}
+	},
+	"styles": {
+        "website": "public/css/yue.css"
+    },
+	"plugins": ["disqus"],
+	"pluginsConfig": {
+		"disqus": {
+            "shortName": ""
+        }
+	}
+}
