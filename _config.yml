@@ -31,12 +31,12 @@ cates:
 - 每日策略
 - 每周展望
 locals:
-  ideas: 想法
-  tags: 标签
+  ideas: 汇先知
+  tags: 汇先知学院
   about: 关于
   newest: 最新文章
   archive: 归档
-  search: 搜索
+  search: 黄金盒子
 gems:
 - jekyll-sitemap
 - jekyll-paginate
