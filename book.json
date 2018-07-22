@@ -1,5 +1,5 @@
 {
-	"title": "",
+	"title": "JimmyLv's Note Book",
 	"links": {
 		"sharing": {
 			"all": null,
@@ -9,7 +9,7 @@
 			"weibo": null
 		},
 		"sidebar": {
-			"JimmyLv's Blog": "http://blog.fxianzhi.com"
+			"JimmyLv's Blog": "http://blog.jimmylv.info"
 		}
 	},
 	"styles": {
@@ -18,7 +18,7 @@
 	"plugins": ["disqus"],
 	"pluginsConfig": {
 		"disqus": {
-            "shortName": ""
+            "shortName": "test4jimmy"
         }
 	}
 }

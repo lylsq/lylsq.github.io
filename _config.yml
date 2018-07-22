@@ -14,9 +14,8 @@ markdown: kramdown
 encoding: utf-8
 author:
   name: 汇先知
-  email: kefu@fxianzhi.com
   link: http://blog.fxianzhi.com
-description: 一个梦想着能改变世界的博客。
+description: 想做产品，却误入程序世界爱上设计的摄影师。
 url: http://blog.fxianzhi.com
 repo: http://blog.fxianzhi.com
 rss: "/pages/atom.xml"
@@ -27,11 +26,12 @@ ga:
   url: http://blog.fxianzhi.com
 disqus:
   shortname: gotoshare
-active: 前端
+active: 每日策略
 cates:
 - 每日策略
 - 每周展望
 locals:
+  ideas: 想法
   tags: 标签
   about: 关于
   newest: 最新文章
@@ -43,7 +43,9 @@ gems:
 - jekyll/tagging
 - jekyll-tagging-related_posts
 - jekyll-seo-tag
+- jekyll-mermaid
 exclude:
+- ".idea/"
 - ".github/"
 - ".travis/"
 - node_modules/
