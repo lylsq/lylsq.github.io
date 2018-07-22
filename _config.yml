@@ -16,14 +16,9 @@ author:
   name: 汇先知
   email: kefu@fxianzhi.com
   link: http://blog.fxianzhi.com
-  weibo: https://weibo.com/liqing215
-  github: https://github.com/JimmyLv
-  zhihu: https://www.zhihu.com/people/JimmyLv
-  juejin: https://juejin.im/user/5628752900b07a1836200154
-  stackoverflow: https://stackoverflow.com/users/5871340/jimmylv
 description: 一个梦想着能改变世界的博客。
 url: http://blog.fxianzhi.com
-repo: https://github.com/JimmyLv/jimmylv.github.io
+repo: http://blog.fxianzhi.com
 rss: "/pages/atom.xml"
 gavatar: http://blog.fxianzhi.com/public/img/gavatar.jpg
 favicon: http://blog.fxianzhi.com/public/img/favicon.ico
@@ -37,7 +32,6 @@ cates:
 - 每日策略
 - 每周展望
 locals:
-  ideas: 想法
   tags: 标签
   about: 关于
   newest: 最新文章
@@ -50,7 +44,6 @@ gems:
 - jekyll-tagging-related_posts
 - jekyll-seo-tag
 exclude:
-- ".idea/"
 - ".github/"
 - ".travis/"
 - node_modules/
