@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 今日策略
+title: 每日策略4444
 category: 每日策略
 tags: [Git, Jekyll]
 keywords: markdown

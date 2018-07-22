@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 今日策略
+title: 每周展望3333
 category: 每周展望
 tags: [Git, Jekyll]
 keywords: markdown

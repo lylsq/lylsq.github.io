@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 今日策略
+title: 外汇骗局22222
 category: 外汇骗局
 tags: [Git, Jekyll]
 keywords: markdown

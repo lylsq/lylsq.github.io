@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 今日策略
+title: 交易心理1111
 category: 交易心理
 tags: [Git, Jekyll]
 keywords: markdown
