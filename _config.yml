@@ -1,5 +1,5 @@
 ---
-title: 汇先知的博客
+title: 汇先知博客
 timezone: UTC
 collections:
   posts:
@@ -13,7 +13,7 @@ paginate: 10
 markdown: kramdown
 encoding: utf-8
 author:
-  name: 汇先知
+  name: 汇先知博客
   link: https://blog.fxianzhi.com/
 description: 想做产品，却误入程序世界爱上设计的摄影师。
 url: https://blog.fxianzhi.com/
@@ -31,9 +31,9 @@ cates:
 - 每日策略
 - 每周展望
 locals:
-  ideas: 汇先知
+  ideas: 汇先知博客
   school: 汇先知学院
-  about: 关于
+  about: 关于我们
   newest: 最新文章
   archive: 全部文章
   search: 黄金盒子
