@@ -35,7 +35,7 @@ locals:
   tags: 汇先知学院
   about: 关于
   newest: 最新文章
-  archive: 归档
+  archive: 全部文章
   search: 黄金盒子
 gems:
 - jekyll-sitemap
