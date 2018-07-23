@@ -14,6 +14,7 @@ markdown: kramdown
 encoding: utf-8
 author:
   name: 汇先知博客
+  email: kefu@fxianzhi.com
   link: https://blog.fxianzhi.com/
 description: 想做产品，却误入程序世界爱上设计的摄影师。
 url: https://blog.fxianzhi.com/
