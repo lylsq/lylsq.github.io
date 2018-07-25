@@ -1,11 +1,4 @@
-<script type="text/javascript">
-  var btn1=document.getElementById('btn');
-  var box1=document.getElementById('box');
-  function btn(){ if(btn1.value=="xs"){box1.style.display='none';btn1.value="yc";
-   }else{box1.style.display='';btn1.value="xs";
-  }
-  }
-</script>
+
 
 <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12 aside visible-md visible-lg">
   <div class="row navside">
@@ -40,7 +33,7 @@
           <caption align="top" style="color: red; font: 30px">联系客服</caption>
           <tr>
             <td><a href="{{ site.author.QQ }}" target="_blank"><i class="fa fa-qq fa-2x" style="padding: 1.6px;"></i></a></td>
-            <td><a id="btn" onclick="btn()"><i class="fa fa-weixin fa-2x" style="padding: 1.6px;"></i></a></td>
+            <td><a id="btn" onclick="btn()"><i class="fa fa-weixin fa-2x" style="padding: 1.6px;"></i>x</a></td>
             <img id="box" style="display:none;height:100px;back-ground:#f00;position:absolute;" src="https://blog.fxianzhi.com/public/img/gavatar.jpg" value="yc">
           </tr>
         </table>
@@ -85,3 +78,11 @@
   </div>
 </div>
 
+<script type="text/javascript">
+  var btn1=document.getElementById('btn');
+  var box1=document.getElementById('box');
+  function btn(){ if(btn1.value=="xs"){box1.style.display='none';btn1.value="yc";
+   }else{box1.style.display='';btn1.value="xs";
+  }
+  }
+</script>
