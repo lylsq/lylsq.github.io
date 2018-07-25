@@ -1,3 +1,12 @@
+<script type="text/javascript"> 
+  function showImg(){ 
+  document.getElementById("wxImg").style.display='block'; 
+  } 
+  function hideImg(){ 
+  document.getElementById("wxImg").style.display='none'; 
+  } 
+  </script> 
+
 <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12 aside visible-md visible-lg">
   <div class="row navside">
     <div class="col-md-3 col-xs-3 aside1">
@@ -31,7 +40,8 @@
           <caption align="top" style="color: red; font: 30px">联系客服</caption>
           <tr>
             <td><a href="{{ site.author.QQ }}" target="_blank"><i class="fa fa-qq fa-2x" style="padding: 1.6px;"></i></a></td>
-            <td><a  href="javascript:void(0)"  onmouseover="showImg()"><i class="fa fa-weixin fa-2x" style="padding: 1.6px;"><img class="wx" src="https://blog.fxianzhi.com/public/img/gavatar.jpg" onclick="hideImg()"></i></a></td>
+            <td><a  href="javascript:void(0)" onMouseOut="hideImg()" onmouseover="showImg()"><i class="fa fa-weixin fa-2x" style="padding: 1.6px;"></i></a></td>
+            <img id ="wxImg" style="display:none;height:50px;back-ground:#f00;position:absolute;" src="https://files.jb51.net/skin/2018/images/jb51ewm.png">
           </tr>
         </table>
       </div>
@@ -75,12 +85,3 @@
   </div>
 </div>
 
-<script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
-<script type="text/javascript">
-  function  showImg(){
-  document.getElementById("wxImg").style.display='block';
-  }
-  function hideImg(){
-  document.getElementById("wxImg").style.display='none';
-  }
-  </script>
