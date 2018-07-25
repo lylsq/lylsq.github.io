@@ -31,7 +31,7 @@
           <caption align="top" style="color: red; font: 30px">联系客服</caption>
           <tr>
             <td><a href="{{ site.author.QQ }}" target="_blank"><i class="fa fa-qq fa-2x" style="padding: 1.6px;"></i></a></td>
-            <td><a id="weixin" style="background-image:url('https://blog.fxianzhi.com/public/img/gavatar.jpg')" class="btn" data-toggle="popover" data-placement="bottom"><i class="fa fa-weixin fa-2x" style="padding: 1.6px;"></i></a></td>
+            <td><a  href="javascript:void(0)"  onmouseover="showImg()"><i class="fa fa-weixin fa-2x" style="padding: 1.6px;"><img class="wx" src="https://blog.fxianzhi.com/public/img/gavatar.jpg" onclick="hideImg()"></i></a></td>
           </tr>
         </table>
       </div>
@@ -75,13 +75,12 @@
   </div>
 </div>
 
-<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js">
 <script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
-<script type="text/javascript" src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<script>
-    $('#weixin').popover({
-        trigger : 'hover',
-        html:true,
-        content:"<img src='https://blog.fxianzhi.com/public/img/gavatar.jpg'>"
-    });
-</script>
+<script type="text/javascript">
+  function  showImg(){
+  document.getElementById("wxImg").style.display='block';
+  }
+  function hideImg(){
+  document.getElementById("wxImg").style.display='none';
+  }
+  </script>
