@@ -22,8 +22,8 @@ description: 想做产品，却误入程序世界爱上设计的摄影师。
 url: https://blog.fxianzhi.com/
 repo: https://blog.fxianzhi.com/
 rss: "/pages/atom.xml"
-gavatar: https://blog.fxianzhi.com/public/img/gavatar.jpg
-favicon: https://blog.fxianzhi.com/public/img/favicon.ico
+gavatar: https://fxianzhi.oss-cn-beijing.aliyuncs.com/public/blog/img/gavatar.jpg
+favicon: https://fxianzhi.oss-cn-beijing.aliyuncs.com/public/blog/img/favicon.ico
 ga:
   id: UA-74789926-1
   url: https://blog.fxianzhi.com/
